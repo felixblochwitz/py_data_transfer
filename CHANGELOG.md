@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v0.1.1 (2024-09-23)
+
+### Non-breaking (bug) fix
+
+* PATCH: Fix versioning (#3)
+
+Fix versioning
+This commit should fix the version not being added to pyproject.toml ([`fdb465f`](https://github.com/felixblochwitz/py_data_transfer/commit/fdb465f70c010f29b6f546a47ecc07b94412404f))
+
 ## v0.1.0 (2024-09-23)
 
 ### Major (breaking) changes

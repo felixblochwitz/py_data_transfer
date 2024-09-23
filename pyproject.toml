@@ -1,6 +1,6 @@
 [project]
 name = "py_data_transfer"
-version = "0.0.0"
+version = "0.1.1"
 authors = [
   { name="felixblochwitz", email="felix.blochwitz@gmail.com" },
 ]
